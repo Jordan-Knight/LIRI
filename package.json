@@ -1,0 +1,27 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^3.1.1",
+    "node-spotify-api": "^1.0.5",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jordan-Knight/LIRI.git"
+  },
+  "author": "Jordan Knight",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jordan-Knight/LIRI/issues"
+  },
+  "homepage": "https://github.com/Jordan-Knight/LIRI#readme"
+}
